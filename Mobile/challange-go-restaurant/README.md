@@ -7,8 +7,8 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leomoraiscam/gobarber-backend?color=%2304D361"">
 
-  <a href="https://www.linkedin.com/in/leonardo-morais-456518182/" target="_blank" rel="noopener noreferrer?color=%2304D361">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-leonardo Morais?color=%2304D361">
+  <a href="https://www.linkedin.com/in/leonardo-morais-456518182/" target="_blank" rel="noopener noreferrer">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-leonardo Morais-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
@@ -59,11 +59,8 @@ Essa aplicação possui um layout que você pode seguir para conseguir visualiza
 
 O layout pode ser acessado através da página do Figma, no [seguinte link](https://www.figma.com/file/cHzfYrUBgdzp1XrRuUpggk/GoRestaurant-Mobile?node-id=1603%3A448).
 
-Você precisará uma conta (gratuita) no Figma pra inspecionar o layout e obter detalhes de cores, tamanhos, etc.
 
 ### Funcionalidades da aplicação
-
-Agora que você já está com o template clonado e pronto para continuar, você deve verificar os arquivos da pasta `src` e completar onde não possui código, com o código para atingir os objetivos de cada rota.
 
 - **`Listar os pratos de comida da sua API`**: Sua página `Dashboard` deve ser capaz de exibir uma listagem, com o campo `name`, `value` e  `description` de todos os pratos de comida que estão cadastrados na sua API.
 
@@ -86,12 +83,6 @@ Agora que você já está com o template clonado e pronto para continuar, você 
 **Dica**: Você pode usar o método `reduce` para somar o valor de todos os extras pedidos e somá-lo com o valor do prato de comida. Depois disso lembre-se de multiplicar tudo pela quantidade pedida do produto.
 
 ### Específicação dos testes
-
-Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
-
-Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, dé uma olhada em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
-
-Para esse desafio, temos os seguintes testes:
 
 - **`should be able to list the food plates`**: Para que esse teste passe, sua aplicação deve permitir que sejam listados na sua `Dashboard`, todos os pratos de comidas que são retornados da sua fake API.
 

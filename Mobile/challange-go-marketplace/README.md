@@ -8,8 +8,8 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leomoraiscam/gobarber-backend?color=%2304D361"">
 
-  <a href="https://www.linkedin.com/in/leonardo-morais-456518182/" target="_blank" rel="noopener noreferrer?color=%2304D361">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-leonardo Morais?color=%2304D361">
+  <a href="https://www.linkedin.com/in/leonardo-morais-456518182/" target="_blank" rel="noopener noreferrer">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-leonardo Morais-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
@@ -50,7 +50,6 @@ Essa aplicação possui um layout que você pode seguir para conseguir visualiza
 
 O layout pode ser acessado através da página do Figma, no [seguinte link](https://www.figma.com/file/VgK3hsmyGbqiGu9FdqfUzF/GoMarketplace?node-id=0%3A1).
 
-Você precisará de uma conta (gratuita) no Figma pra inspecionar o layout e obter detalhes de cores, tamanhos, etc.
 
 ### Funcionalidades da aplicação
 
@@ -75,12 +74,6 @@ Agora que você já está com o template clonado e pronto para continuar, você 
 - **`Exibir valor total dos itens no carrinho`**: Tanto na página `Dashboard`, quanto na página `Cart` você deve exibir o valor total de todos os itens que estão no seu carrinho.
 
 ### Específicação dos testes
-
-Em cada teste, tem uma breve descrição do que sua aplicação deve cumprir para que o teste passe.
-
-Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, dé uma olhada em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
-
-Para esse desafio, temos os seguintes testes:
 
 - **`should be able to list the products`**: Para que esse teste passe, sua aplicação deve permitir que sejam listados na sua tela `Dashboard`, todos os produtos que são retornadas do Fake API. Essa listagem deve exibir o `title` e o `price` que deve ser formatado utilizando a função `Intl`.
 
