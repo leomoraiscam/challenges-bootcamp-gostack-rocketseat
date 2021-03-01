@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leomoraiscam/gobarber-backend?color=%23FF9000">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leomoraiscam/gobarber-backend">
 
   <a href="https://www.linkedin.com/in/leonardo-morais-456518182/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-leonardo Morais-%23FF9000">
@@ -13,10 +13,10 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leomoraiscam/gobarber-backend?color=%23FF9000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leomoraiscam/gobarber-backend">
    
   <a href="https://github.com/ruandsx/gobarber-backend/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leomoraiscam/gobarber-backend?color=%23FF9000">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leomoraiscam/gobarber-backend">
   </a>
 
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/stargazers">
@@ -87,8 +87,8 @@ Para esse desafio temos os seguintes testes:
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../../Backend/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../../../LICENSE) para mais detalhes.
 
 ---
 
-Made with 💛 by 👨‍💻[Leonardo Morais](https://www.linkedin.com/in/leonardo-morais-456518182/)
+Made with 💜 by 👨‍💻[Leonardo Morais](https://www.linkedin.com/in/leonardo-morais-456518182/)
