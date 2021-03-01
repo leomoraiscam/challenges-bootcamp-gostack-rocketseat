@@ -8,8 +8,8 @@
 <p align="center">
  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leomoraiscam/gobarber-backend?color=%2304D361"">
 
-  <a href="https://www.linkedin.com/in/leonardo-morais-456518182/" target="_blank" rel="noopener noreferrer?color=%2304D361">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-leonardo Morais?color=%2304D361">
+  <a href="https://www.linkedin.com/in/leonardo-morais-456518182/" target="_blank" rel="noopener noreferrer">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-leonardo Morais-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
@@ -82,7 +82,6 @@ Essa aplicação possui um layout que você pode seguir para conseguir visualiza
 
 O layout pode ser acessado através da página do Figma, no [seguinte link](https://www.figma.com/file/EgOhyj1Inz14dhWGVhRlhr/GoFinances?node-id=1%3A863).
 
-Você precisará uma conta (gratuita) no Figma pra inspecionar o layout e obter detalhes de cores, tamanhos, etc.
 
 ### Funcionalidades da aplicação
 
@@ -99,12 +98,6 @@ Você precisará uma conta (gratuita) no Figma pra inspecionar o layout e obter 
 **Dica 2**: Utilize o [FormData()](https://developer.mozilla.org/pt-BR/docs/Web/API/FormData/FormData) para conseguir enviar o seu arquivo para o seu backend.
 
 ### Específicação dos testes
-
-Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
-
-Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, dé uma olhada em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
-
-Para esse desafio, temos os seguintes testes:
 
 - **`should be able to list the total balance inside the cards`**: Para que esse teste passe, sua aplicação deve permitir que seja exibido na sua Dashboard, cards contendo o total de `income`, `outcome` e o total da subtração de `income - outcome` que são retornados pelo balance do seu backend.
 
